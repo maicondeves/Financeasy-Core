@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Financeasy.Core", "src\Financeasy.Core\Financeasy.Core.csproj", "{7BEBD5B4-C041-4E0D-8B36-E606194925D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BEBD5B4-C041-4E0D-8B36-E606194925D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BEBD5B4-C041-4E0D-8B36-E606194925D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BEBD5B4-C041-4E0D-8B36-E606194925D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BEBD5B4-C041-4E0D-8B36-E606194925D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BA2CDB8-C897-4BB5-BB7B-2F6FCBC2AD6C}
+	EndGlobalSection
+EndGlobal
